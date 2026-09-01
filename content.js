@@ -14,4 +14,3 @@ window.blogContent = {
     { title: '生活实验', text: '关于习惯、注意力和低成本的改变。', status: '持续积累' }
   ]
 };
-
